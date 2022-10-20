@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BT3WNC-MemeList/static/css/main.dc91924a.css",
+    "main.js": "/BT3WNC-MemeList/static/js/main.1a5d5cec.js",
+    "static/js/787.31e7e491.chunk.js": "/BT3WNC-MemeList/static/js/787.31e7e491.chunk.js",
+    "index.html": "/BT3WNC-MemeList/index.html",
+    "main.dc91924a.css.map": "/BT3WNC-MemeList/static/css/main.dc91924a.css.map",
+    "main.1a5d5cec.js.map": "/BT3WNC-MemeList/static/js/main.1a5d5cec.js.map",
+    "787.31e7e491.chunk.js.map": "/BT3WNC-MemeList/static/js/787.31e7e491.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc91924a.css",
+    "static/js/main.1a5d5cec.js"
+  ]
+}
